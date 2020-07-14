@@ -66,6 +66,15 @@
     </item>
     
     <item>
+      <title>Clustering</title>
+      <link>https://kaumil.github.io/portfolio/tags/clustering/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://kaumil.github.io/portfolio/tags/clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Convolutional Neural Networks</title>
       <link>https://kaumil.github.io/portfolio/tags/convolutional-neural-networks/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
@@ -129,6 +138,15 @@
     </item>
     
     <item>
+      <title>NLP</title>
+      <link>https://kaumil.github.io/portfolio/tags/nlp/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://kaumil.github.io/portfolio/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Non-negative matrix factorization</title>
       <link>https://kaumil.github.io/portfolio/tags/non-negative-matrix-factorization/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
@@ -165,7 +183,7 @@
     </item>
     
     <item>
-      <title>statistical machine learning</title>
+      <title>Statistical Machine Learning</title>
       <link>https://kaumil.github.io/portfolio/tags/statistical-machine-learning/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
@@ -224,6 +242,123 @@
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
       <guid>https://kaumil.github.io/portfolio/tags/web-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advanced Python</title>
+      <link>https://kaumil.github.io/portfolio/tags/advanced-python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaumil.github.io/portfolio/tags/advanced-python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorithms</title>
+      <link>https://kaumil.github.io/portfolio/tags/algorithms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaumil.github.io/portfolio/tags/algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apache Spark</title>
+      <link>https://kaumil.github.io/portfolio/tags/apache-spark/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaumil.github.io/portfolio/tags/apache-spark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Data</title>
+      <link>https://kaumil.github.io/portfolio/tags/big-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaumil.github.io/portfolio/tags/big-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Structures</title>
+      <link>https://kaumil.github.io/portfolio/tags/data-structures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaumil.github.io/portfolio/tags/data-structures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://kaumil.github.io/portfolio/tags/deep-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaumil.github.io/portfolio/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markov Models</title>
+      <link>https://kaumil.github.io/portfolio/tags/markov-models/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaumil.github.io/portfolio/tags/markov-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing</title>
+      <link>https://kaumil.github.io/portfolio/tags/natural-language-processing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaumil.github.io/portfolio/tags/natural-language-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Networks</title>
+      <link>https://kaumil.github.io/portfolio/tags/neural-networks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaumil.github.io/portfolio/tags/neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://kaumil.github.io/portfolio/tags/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaumil.github.io/portfolio/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequence Models</title>
+      <link>https://kaumil.github.io/portfolio/tags/sequence-models/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaumil.github.io/portfolio/tags/sequence-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spark Mllib</title>
+      <link>https://kaumil.github.io/portfolio/tags/spark-mllib/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaumil.github.io/portfolio/tags/spark-mllib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word Vectors</title>
+      <link>https://kaumil.github.io/portfolio/tags/word-vectors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaumil.github.io/portfolio/tags/word-vectors/</guid>
       <description></description>
     </item>
     

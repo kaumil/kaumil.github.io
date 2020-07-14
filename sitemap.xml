@@ -3,6 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kaumil.github.io/portfolio/certifications/</loc>
+    <lastmod>2020-01-07T16:47:30+00:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://kaumil.github.io/portfolio/publications/</loc>
     <lastmod>2020-01-07T16:47:30+00:00</lastmod>
     <priority>0.6</priority>
@@ -17,6 +23,46 @@
   <url>
     <loc>https://kaumil.github.io/portfolio/publications/binaryclassifier/</loc>
     <lastmod>2019-09-28T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://kaumil.github.io/portfolio/certifications/nptelpython/</loc>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://kaumil.github.io/portfolio/certifications/deeplearningspecialization/</loc>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://kaumil.github.io/portfolio/certifications/courseramachinelearning/</loc>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://kaumil.github.io/portfolio/certifications/nptelnlp/</loc>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://kaumil.github.io/portfolio/certifications/pythondeepdive1/</loc>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://kaumil.github.io/portfolio/certifications/udemysparkpython/</loc>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://kaumil.github.io/portfolio/certifications/stanfordstatisticallearning/</loc>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://kaumil.github.io/portfolio/certifications/udemytamingbigdata/</loc>
     <priority>0.8</priority>
   </url>
   
@@ -67,6 +113,11 @@
   </url>
   
   <url>
+    <loc>https://kaumil.github.io/portfolio/tags/clustering/</loc>
+    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kaumil.github.io/portfolio/tags/convolutional-neural-networks/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
   </url>
@@ -113,6 +164,11 @@
   
   <url>
     <loc>https://kaumil.github.io/portfolio/projects/creations/molecularclassification/</loc>
+    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kaumil.github.io/portfolio/tags/nlp/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
   </url>
   
@@ -193,8 +249,60 @@
   </url>
   
   <url>
+    <loc>https://kaumil.github.io/portfolio/tags/advanced-python/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kaumil.github.io/portfolio/tags/algorithms/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kaumil.github.io/portfolio/tags/apache-spark/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kaumil.github.io/portfolio/tags/big-data/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kaumil.github.io/portfolio/tags/data-structures/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kaumil.github.io/portfolio/tags/deep-learning/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kaumil.github.io/portfolio/tags/markov-models/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kaumil.github.io/portfolio/tags/natural-language-processing/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kaumil.github.io/portfolio/tags/neural-networks/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kaumil.github.io/portfolio/tags/python/</loc>
+  </url>
+  
+  <url>
     <loc>https://kaumil.github.io/portfolio/search/</loc>
     <priority>0.1</priority>
+  </url>
+  
+  <url>
+    <loc>https://kaumil.github.io/portfolio/tags/sequence-models/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kaumil.github.io/portfolio/tags/spark-mllib/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kaumil.github.io/portfolio/tags/word-vectors/</loc>
   </url>
   
 </urlset>
