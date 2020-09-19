@@ -33,9 +33,10 @@
   <link rel="preload" href="https://kaumil.github.io/css/resume-override.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <noscript><link rel="stylesheet" href="https://kaumil.github.io/css/resume-override.css"></noscript>
   <script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs"></script>
-  <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/universal-sentence-encoder"></script>
-  <meta name="generator" content="Hugo 0.75.0" />
+  <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs"> </script>
+  
+  <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/qna"> </script>
+  <meta name="generator" content="Hugo 0.75.1" />
   
    
   
@@ -54,42 +55,42 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="https://kaumil.github.io/#about">About</a>
+        <a class="nav-link js-scroll-trigger" href="https://kaumil.github.io/#about" id="link-about">About</a>
       </li>
       
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="https://kaumil.github.io/#skills">Skills</a>
+            <a class="nav-link js-scroll-trigger" href="https://kaumil.github.io/#skills" id="link-skills">Skills</a>
           </li>
       
       
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="https://kaumil.github.io/#projects">Projects</a>
+            <a class="nav-link js-scroll-trigger" href="https://kaumil.github.io/#projects" id="link-projects">Projects</a>
           </li>
       
       
       
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="https://kaumil.github.io/#Certifications">Certifications</a>
+            <a class="nav-link js-scroll-trigger" href="https://kaumil.github.io/#Certifications" id="link-certifications">Certifications</a>
           </li>
       
       
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="https://kaumil.github.io/#Publications">Publications</a>
+            <a class="nav-link js-scroll-trigger" href="https://kaumil.github.io/#Publications" id="link-publications">Publications</a>
           </li>
       
       
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="https://kaumil.github.io/#Articles">Articles</a>
+            <a class="nav-link js-scroll-trigger" href="https://kaumil.github.io/#Articles" id="link-articles">Articles</a>
           </li>
       
       
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="https://kaumil.github.io/#experience">Experience</a>
+            <a class="nav-link js-scroll-trigger" href="https://kaumil.github.io/#experience" id="link-experience">Experience</a>
           </li>
       
       
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="https://kaumil.github.io/#education">Education</a>
+            <a class="nav-link js-scroll-trigger" href="https://kaumil.github.io/#education" id="link-education">Education</a>
           </li>
       
       
@@ -97,8 +98,10 @@
   </div>
 </nav>
 
-  <div class="container-fluid p-0">
-    
+  <div class="container p-0">
+    <div class="row">
+      <div class="col">
+        
 <section class="resume-section p-3 p-lg-5 d-flex flex-column">
   <div class="my-auto" >
     <form action="https://kaumil.github.io/search/">
@@ -118,6 +121,53 @@
     </div>
 </script>
 
+      </div>
+      <div class="col-1">
+        <div class="chatbot" id="chatbox" style="top:10;">
+    <div class="row chat-window col-xs-5 col-md-3 pull-right" id="chat_window_1">
+        <div class="col-xs-12 col-md-12">
+          <div class="panel panel-default" id="panel">
+                <div class="top-bar">
+                    <div class="col-md-8 col-xs-8">
+                        <h3 class="panel-title">Chat Window </h3>
+                        <i class="fa fa-microphone btn-m" id="sym-microphone"></i>
+                    </div>
+                </div>
+                <div id="messagebody" class="panel-body msg_container_base">
+                    <div class="row msg_container base_receive">
+                        <div class="col-md-10 col-xs-10">
+                            <div class="messages msg_receive">
+                                <p>Hi, Thanks for visiting my portfolio! Feel free to ask my bot any questions about me!</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                </div>
+                <div class="panel-footer" id="panel-footer">
+                    <div class="input-group">
+                        <input id="btn-input" type="text" class="form-control input-sm chat_input" placeholder="Say something..." required="required" />
+                        <i class="fa fa-microphone input-group-btn btn btn-primary btn-m chatbot-microphone" id="btn-microphone"></i>
+                        <span class="input-group-btn">
+                            <button class="btn btn-primary btn-sm chatbot-send" id="btn-chat">Send</button>
+                        </span>
+                </div>
+        </div>
+        </div>
+
+</div>
+
+
+
+
+<div class="chatbot">
+    <ul class="list-inline list-social-icons mb-0">
+        <li class="list-inline-item">
+            <a><span class="iconify fa-stack fa-lg chatbot_icon" id="chatbot_icon" data-id="chat_window_1" data-icon="wpf:assistant" data-toggle="tooltip" data-offset="0 10" rel="me" data-inline="false"></span></a>
+        </li>
+    </ul>
+</div>
+      </div>
 
     
   </div>
@@ -125,10 +175,15 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script async src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.bundle.min.js"></script>
 
+  <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+
+
   
   <script async src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
   
   <script async src="https://kaumil.github.io/js/resume.js"></script>
+  <script async src="https://kaumil.github.io/js/chatbot.js"></script>
+  <script async src="https://kaumil.github.io/js/microphone.js"></script>
   <script src="https://kaumil.github.io/js/lightbox-plus-jquery.min.js"></script>
   <script async src="https://www.googletagmanager.com/gtag/js?id="></script>
   <script>
