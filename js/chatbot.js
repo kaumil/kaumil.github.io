@@ -21,13 +21,13 @@ clone.css("margin-left", size_total);
 
 $(document).ready(function(){
     $("#sym-microphone").toggle();
-    setTimeout(function(){
-        $("#panel").fadeIn(300);
-        $("#panel-footer").fadeIn(300);
-    },1000);
     qna.load().then(model => {
         window.value = model
     });
+    setTimeout(function(){
+        $("#panel").fadeIn(200);
+        $("#panel-footer").fadeIn(200);
+    },800);
 });
 
 $(document).on('click','.chatbot_icon',function(e){
