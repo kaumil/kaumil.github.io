@@ -21,11 +21,13 @@ $(document).on('click', '#new_chat', function (e) {
 
 $(document).ready(function () {
     $("#sym-microphone").toggle();
+    $("#chatbot_icon").toggle();
     qna.load()
         .then(model => {
             window.value = model;
             $("#panel").fadeIn(200);
             $("#panel-footer").fadeIn(200);
+            $("#chatbot_icon").toggle();
         })
         .catch((e) => {
             console.log(e);
