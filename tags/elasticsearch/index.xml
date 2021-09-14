@@ -5,7 +5,17 @@
     <link>https://kaumil.github.io/tags/elasticsearch/</link>
     <description>Recent content in Elasticsearch on Kaumil Trivedi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://kaumil.github.io/tags/elasticsearch/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate><atom:link href="https://kaumil.github.io/tags/elasticsearch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Event Analysis using Spark and Elasticsearch</title>
+      <link>https://kaumil.github.io/projects/creations/data_analysis_using_spark_and_elasticsearch/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://kaumil.github.io/projects/creations/data_analysis_using_spark_and_elasticsearch/</guid>
+      <description>The aim of this project is to create a data pipeline to ingest, process and analyze data from a remote location. We would use Apache Nifi, a dataflow tool to ingest the data and store it in HDFS. Following that, we would analyze the stored files using Apache Spark and send those files to the Elasticsearch cluster. Furthermore, the entire workflow is containerized to facilitate faster deployments.</description>
+    </item>
+    
     <item>
       <title>Blogging website</title>
       <link>https://kaumil.github.io/projects/creations/flask_microblog/</link>

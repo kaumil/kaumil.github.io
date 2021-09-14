@@ -26,6 +26,15 @@
     </item>
     
     <item>
+      <title>Event Analysis using Spark and Elasticsearch</title>
+      <link>https://kaumil.github.io/projects/creations/data_analysis_using_spark_and_elasticsearch/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://kaumil.github.io/projects/creations/data_analysis_using_spark_and_elasticsearch/</guid>
+      <description>The aim of this project is to create a data pipeline to ingest, process and analyze data from a remote location. We would use Apache Nifi, a dataflow tool to ingest the data and store it in HDFS. Following that, we would analyze the stored files using Apache Spark and send those files to the Elasticsearch cluster. Furthermore, the entire workflow is containerized to facilitate faster deployments.</description>
+    </item>
+    
+    <item>
       <title>Fraud Detection</title>
       <link>https://kaumil.github.io/projects/creations/frauddetection/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>

@@ -53,6 +53,15 @@
     </item>
     
     <item>
+      <title>Apache Spark</title>
+      <link>https://kaumil.github.io/tags/apache-spark/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://kaumil.github.io/tags/apache-spark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Classifiers comparisions</title>
       <link>https://kaumil.github.io/tags/classifiers-comparisions/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
@@ -89,11 +98,29 @@
     </item>
     
     <item>
+      <title>Docker</title>
+      <link>https://kaumil.github.io/tags/docker/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://kaumil.github.io/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>EDA</title>
       <link>https://kaumil.github.io/tags/eda/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
       <guid>https://kaumil.github.io/tags/eda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elasticsearch</title>
+      <link>https://kaumil.github.io/tags/elasticsearch/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://kaumil.github.io/tags/elasticsearch/</guid>
       <description></description>
     </item>
     
@@ -260,15 +287,6 @@
     </item>
     
     <item>
-      <title>Apache Spark</title>
-      <link>https://kaumil.github.io/tags/apache-spark/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kaumil.github.io/tags/apache-spark/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Artificial Intelligence</title>
       <link>https://kaumil.github.io/tags/artificial-intelligence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -310,24 +328,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kaumil.github.io/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Docker</title>
-      <link>https://kaumil.github.io/tags/docker/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kaumil.github.io/tags/docker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Elasticsearch</title>
-      <link>https://kaumil.github.io/tags/elasticsearch/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kaumil.github.io/tags/elasticsearch/</guid>
       <description></description>
     </item>
     
