@@ -22,6 +22,9 @@
     <lastmod>2019-09-28T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
+    <loc>https://kaumil.github.io/certifications/advancedmysql/</loc>
+    <priority>0.8</priority>
+  </url><url>
     <loc>https://kaumil.github.io/certifications/awsdeveloperassociate/</loc>
     <priority>0.8</priority>
   </url><url>
@@ -193,6 +196,8 @@
     <loc>https://kaumil.github.io/tags/interview/</loc>
   </url><url>
     <loc>https://kaumil.github.io/tags/markov-models/</loc>
+  </url><url>
+    <loc>https://kaumil.github.io/tags/mysql/</loc>
   </url><url>
     <loc>https://kaumil.github.io/tags/natural-language-processing/</loc>
   </url><url>
