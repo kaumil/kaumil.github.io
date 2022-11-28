@@ -6,7 +6,16 @@
     <description>Recent content in Docker on Kaumil Trivedi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate><atom:link href="https://kaumil.github.io/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Apr 2022 12:41:05 -0500</lastBuildDate><atom:link href="https://kaumil.github.io/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NFT Marketplace</title>
+      <link>https://kaumil.github.io/projects/creations/nftmarketplace/</link>
+      <pubDate>Sat, 23 Apr 2022 12:41:05 -0500</pubDate>
+      
+      <guid>https://kaumil.github.io/projects/creations/nftmarketplace/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Event Analysis using Spark and Elasticsearch</title>
       <link>https://kaumil.github.io/projects/creations/data_analysis_using_spark_and_elasticsearch/</link>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PyTorch on Kaumil Trivedi</title>
+    <link>https://kaumil.github.io/tags/pytorch/</link>
+    <description>Recent content in PyTorch on Kaumil Trivedi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Apr 2022 12:41:05 -0500</lastBuildDate><atom:link href="https://kaumil.github.io/tags/pytorch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crime Hotspot Prediction</title>
+      <link>https://kaumil.github.io/projects/creations/crime_hotspot_prediction/</link>
+      <pubDate>Fri, 22 Apr 2022 12:41:05 -0500</pubDate>
+      
+      <guid>https://kaumil.github.io/projects/creations/crime_hotspot_prediction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

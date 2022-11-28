@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amazon Elastic Kubernetes Service on Kaumil Trivedi</title>
+    <link>https://kaumil.github.io/tags/amazon-elastic-kubernetes-service/</link>
+    <description>Recent content in Amazon Elastic Kubernetes Service on Kaumil Trivedi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Apr 2022 12:41:05 -0500</lastBuildDate><atom:link href="https://kaumil.github.io/tags/amazon-elastic-kubernetes-service/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NFT Marketplace</title>
+      <link>https://kaumil.github.io/projects/creations/nftmarketplace/</link>
+      <pubDate>Sat, 23 Apr 2022 12:41:05 -0500</pubDate>
+      
+      <guid>https://kaumil.github.io/projects/creations/nftmarketplace/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
